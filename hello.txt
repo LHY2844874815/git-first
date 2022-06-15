@@ -1,16 +1,17 @@
-你好 java  
-你好 java
-你好 git
-你好 git
-public static void main(String args[]{
-	System.out.println(你好");
-	System.out.println("123456");
+public class hello{
+	public static void main(String args[]{
+		System.out.println(你好");
+		System.out.println("123456");
 
-	System.out.println("alipay");
-	System.out.println("alipay");
+		System.out.println("alipay");
+		System.out.println("alipay");
 
 
-	System.out.println("hot-fix分支");
-	System.out.println("hot-fix分支“);
+		System.out.println("hot-fix分支");
+		System.out.println("hot-fix分支“);
+	
 
+		Sysout.out.println("在github中添加了私钥");
+
+	}
 }
