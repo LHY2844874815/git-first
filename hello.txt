@@ -2,3 +2,6 @@
 你好 java
 你好 git
 你好 git
+public static void main(String args[]{
+	System.out.println(你好");
+}
